@@ -1,5 +1,10 @@
 import os
+import googlesearch
+import json
+from tqdm import tqdm
+from utils.scrape import google_scrape
 from utils.extract_pdf import batch_extract_from_folder
+
 
 class FileDownloadAndCombinerConfig(object):
     paper_list_txt = './assets/orals.txt'
@@ -13,8 +18,9 @@ class FileDownloadAndCombiner(object):
     @staticmethod
     def get_paper_titles(paper_list_txt):
         with open(paper_list_txt, 'r') as f_in:
-            paper_titles = f_in.readlines()[1:]
-            print('{} papers loaded'.format(len(paper_titles)))
+            paper_titles = f_in.readlines()
+        paper_titles = [x.strip() for x in paper_titles[1:]]
+        print('{} papers loaded'.format(len(paper_titles)))
         return paper_titles
 
     @staticmethod
@@ -30,6 +36,26 @@ class FileDownloadAndCombiner(object):
         Here we use python lib ??? for portability
         """
         urls = []
+        for paper_title in tqdm(paper_titles[:]):
+            query = '{} arxiv.org'.format(paper_title)
+            print(query)
+            for url in googlesearch.search(query, stop=1):
+                print(url)
+                if 'arxiv.org/pdf' in url:
+                    # cannot scrape the title of a web page containing a pdf file
+                    continue
+                try:
+                    url_title = google_scrape(url)
+                except AttributeError:
+                    url_title = ''
+                print('url title ', url_title)
+                urls.append({
+                    'url_title': url_title,
+                    'url': url,
+                    'query': paper_title,
+                })
+        with open('./papers/query_urls.json', 'w') as f_out:
+            json.dump(urls, f_out, indent=4, sort_keys=True)
         return urls
 
     @staticmethod
