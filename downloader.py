@@ -76,7 +76,7 @@ def get_arxiv_urls(paper_titles):
                 # convert returned iterator to list to catch the error here
                 query_results = list(googlesearch.search(query, stop=1, pause=2))
             except:
-                sleep_in_seconds = random.randint(180, 240)
+                sleep_in_seconds = random.randint(180, 240) * (num_trial + 1)
                 print('Warning: sleep and retry in {} seconds'.format(sleep_in_seconds))
                 continue
             num_trial += 1
@@ -90,7 +90,7 @@ def get_arxiv_urls(paper_titles):
             url = 'https://arxiv.org/' + '/'.join(url.replace('https://', '').split('/')[-2:])
             try:
                 url_title = google_scrape(url)
-            except AttributeError:
+            except:
                 url_title = ''
             print('url ', url)
             print('url title ', url_title)
