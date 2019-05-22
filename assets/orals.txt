@@ -287,4 +287,3 @@ A Sufficient Condition for Convergences of Adam and RMSProp
 Guaranteed Matrix Completion under Multiple Linear Transformations
 MAP inference via Block-Coordinate Frank-Wolfe Algorithm
 A convex relaxation for multi-graph matching
-

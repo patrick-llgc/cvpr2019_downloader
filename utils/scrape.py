@@ -4,7 +4,7 @@ import urllib
 from bs4 import BeautifulSoup
 
 def google_scrape(url):
-    response = requests.get(url)
+    response = requests.get(url, headers = {'User-agent': 'your bot 0.1'})
     soup = BeautifulSoup(response.content, "html.parser")
     return soup.title.text
 
