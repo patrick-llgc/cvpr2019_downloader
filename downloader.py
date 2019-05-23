@@ -1,7 +1,6 @@
 from tqdm import tqdm
 from fuzzywuzzy import fuzz
-import urllib
-from utils.scrape import google_scrape
+import os
 from utils.scrape import download
 from utils.scrape import get_arxiv_urls
 from utils.extract_pdf import batch_extract_from_folder
@@ -57,7 +56,7 @@ class FileDownloadAndCombiner(object):
         print('Downloading {} papers'.format(len(valid_urls)))
         for data in tqdm(valid_urls[:]):
             url = data['url'].replace('abs', 'pdf') + '.pdf'
-            filename = 'papers/' + data['title'] + '.pdf'
+            filename = os.path.join(target_dir, data['title'] + '.pdf')
             filename = filename.replace('"', '').replace('/', '')
             print(url)
             print(filename)
@@ -68,9 +67,9 @@ class FileDownloadAndCombiner(object):
         batch_extract_from_folder(source_pdf_dir=source_dir, output_pdf_dir=source_dir)
 
     def process(self):
-        # paper_titles = self.get_paper_titles(self.config.paper_list_txt)
-        # urls = get_arxiv_urls(paper_titles)
-        # self.download(urls, self.config.dl_dir)
+        paper_titles = self.get_paper_titles(self.config.paper_list_txt)
+        urls = get_arxiv_urls(paper_titles)
+        self.download(urls, self.config.dl_dir)
         self.extract_and_combine(self.config.dl_dir)
 
 

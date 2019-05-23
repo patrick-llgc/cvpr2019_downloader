@@ -1,0 +1,1332 @@
+[
+    {
+        "query": "Edge-Labeling Graph Neural Network for Few-shot Learning",
+        "url": "https://arxiv.org/abs/1905.01436",
+        "url_title": "[1905.01436] Edge-labeling Graph Neural Network for Few-shot Learning"
+    },
+    {
+        "query": "Generating Classification Weights with Graph Neural Networks for Few-Shot Learning",
+        "url": "https://arxiv.org/abs/1905.01102",
+        "url_title": "[1905.01102] Generating Classification Weights with GNN Denoising Autoencoders for Few-Shot Learning"
+    },
+    {
+        "query": "Kervolutional Neural Networks",
+        "url": "https://arxiv.org/abs/1904.03955",
+        "url_title": "[1904.03955] Kervolutional Neural Networks"
+    },
+    {
+        "query": "Why ReLu networks yield high-confidence predictions far away from the training data and how to mitigate the problem",
+        "url": "https://arxiv.org/abs/1812.05720",
+        "url_title": "[1812.05720] Why ReLU networks yield high-confidence predictions far away from the training data and how to mitigate the problem"
+    },
+    {
+        "query": "On the Structural Sensitivity of Deep Convolutional Networks to the Directions of Fourier Basis Functions",
+        "url": "https://arxiv.org/abs/1809.04098",
+        "url_title": "[1809.04098] On the Structural Sensitivity of Deep Convolutional Networks to the Directions of Fourier Basis Functions"
+    },
+    {
+        "query": "Neural Rejuvenation: Improving Deep Network Training by Enhancing Computational Resource Utilization",
+        "url": "https://arxiv.org/abs/1812.00481",
+        "url_title": "[1812.00481] Neural Rejuvenation: Improving Deep Network Training by Enhancing Computational Resource Utilization"
+    },
+    {
+        "query": "Hardness-Aware Deep Metric Learning",
+        "url": "https://arxiv.org/abs/1903.05503",
+        "url_title": "[1903.05503] Hardness-Aware Deep Metric Learning"
+    },
+    {
+        "query": "Auto-DeepLab: Hierarchical Neural Architecture Search for Semantic Image Segmentation",
+        "url": "https://arxiv.org/abs/1901.02985",
+        "url_title": "[1901.02985] Auto-DeepLab: Hierarchical Neural Architecture Search for Semantic Image Segmentation"
+    },
+    {
+        "query": "Learning to Learn Loss for Active Learning",
+        "url": "https://arxiv.org/abs/1905.03677",
+        "url_title": "[1905.03677] Learning Loss for Active Learning"
+    },
+    {
+        "query": "Striking the Right Balance with Uncertainty",
+        "url": "https://arxiv.org/abs/1901.07590",
+        "url_title": "[1901.07590] Striking the Right Balance with Uncertainty"
+    },
+    {
+        "query": "AutoAugment: Learning Augmentation Strategies from Data",
+        "url": "https://arxiv.org/abs/1805.09501",
+        "url_title": "[1805.09501] AutoAugment: Learning Augmentation Policies from Data"
+    },
+    {
+        "query": "SDRSAC: Semidefinite-Based Randomized Approach for Robust Point Cloud Registration without Correspondences",
+        "url": "https://arxiv.org/abs/1904.03483",
+        "url_title": "[1904.03483] SDRSAC: Semidefinite-Based Randomized Approach for Robust Point Cloud Registration without Correspondences"
+    },
+    {
+        "query": "Revealing Scenes by Inverting Structure from Motion Reconstructions",
+        "url": "https://arxiv.org/abs/1904.03303",
+        "url_title": "[1904.03303] Revealing Scenes by Inverting Structure from Motion Reconstructions"
+    },
+    {
+        "query": "DeepSDF: Learning Continuous Signed Distance Functionsfor Shape Representation",
+        "url": "https://arxiv.org/abs/1901.05103",
+        "url_title": "[1901.05103] DeepSDF: Learning Continuous Signed Distance Functions for Shape Representation"
+    },
+    {
+        "query": "Pushing the Boundaries of View Extrapolation with Multiplane Images",
+        "url": "https://arxiv.org/abs/1905.00413",
+        "url_title": "[1905.00413] Pushing the Boundaries of View Extrapolation with Multiplane Images"
+    },
+    {
+        "query": "GA-Net: Guided Aggregation Net for End-to-end Stereo Matching",
+        "url": "https://arxiv.org/abs/1904.06587",
+        "url_title": "[1904.06587] GA-Net: Guided Aggregation Net for End-to-end Stereo Matching"
+    },
+    {
+        "query": "Real-time self-adaptive deep stereo",
+        "url": "https://arxiv.org/abs/1810.05424",
+        "url_title": "[1810.05424] Real-time self-adaptive deep stereo"
+    },
+    {
+        "query": "LAF-Net: Locally Adaptive Fusion Networks for Stereo Confidence Estimation",
+        "url": "https://arxiv.org/abs/1610.08929",
+        "url_title": "[1610.08929] Locally Adaptive Confidence Bands"
+    },
+    {
+        "query": "NM-Net: Mining Reliable Neighbors for Robust Feature Correspondences",
+        "url": "https://arxiv.org/abs/1904.00320",
+        "url_title": "[1904.00320] NM-Net: Mining Reliable Neighbors for Robust Feature Correspondences"
+    },
+    {
+        "query": "Coordinate-Free Carlsson-Weinshall Duality and Relative Multi-View Geometry",
+        "url": "https://arxiv.org/hal.inria.fr/hal-01676732v3",
+        "url_title": "Not found"
+    },
+    {
+        "query": "Deep Reinforcement Learning of Volume-guided Progressive View Inpainting for 3D Point Scene Completion from a Single Depth Image",
+        "url": "https://arxiv.org/abs/1903.04019",
+        "url_title": "[1903.04019] Deep Reinforcement Learning of Volume-guided Progressive View Inpainting for 3D Point Scene Completion from a Single Depth Image"
+    },
+    {
+        "query": "Video Action Transformer Network",
+        "url": "https://arxiv.org/abs/1812.02707",
+        "url_title": "[1812.02707] Video Action Transformer Network"
+    },
+    {
+        "query": "Timeception for Complex Action Recognition",
+        "url": "https://arxiv.org/abs/1812.01289",
+        "url_title": "[1812.01289] Timeception for Complex Action Recognition"
+    },
+    {
+        "query": "STEP: Spatio-Temporal Progressive Learning for Video Action Detection",
+        "url": "https://arxiv.org/abs/1904.09288",
+        "url_title": "[1904.09288] STEP: Spatio-Temporal Progressive Learning for Video Action Detection"
+    },
+    {
+        "query": "Relational Action Forecasting",
+        "url": "https://arxiv.org/abs/1904.04231",
+        "url_title": "[1904.04231] Relational Action Forecasting"
+    },
+    {
+        "query": "Long-Term Feature Banks for Detailed Video Understanding",
+        "url": "https://arxiv.org/abs/1812.05038",
+        "url_title": "[1812.05038] Long-Term Feature Banks for Detailed Video Understanding"
+    },
+    {
+        "query": "What and How Well You Performed? A Multitask Approach To Action Quality Assessment",
+        "url": "https://arxiv.org/abs/1904.04346",
+        "url_title": "[1904.04346] What and How Well You Performed? A Multitask Learning Approach to Action Quality Assessment"
+    },
+    {
+        "query": "MHP-VOS: Video Object Segmentation with Multiple Hypotheses Propagation",
+        "url": "https://arxiv.org/abs/1904.08141",
+        "url_title": "[1904.08141] MHP-VOS: Multiple Hypotheses Propagation for Video Object Segmentation"
+    },
+    {
+        "query": "2.5D Visual Sound",
+        "url": "https://arxiv.org/abs/1812.04204",
+        "url_title": "[1812.04204] 2.5D Visual Sound"
+    },
+    {
+        "query": "Language-driven Temporal Activity Localization: A Semantic Matching Reinforcement Learning Model",
+        "url": "https://arxiv.org/cs.CV/new",
+        "url_title": "Not found"
+    },
+    {
+        "query": "Efficient Video Classification Using Fewer Frames",
+        "url": "https://arxiv.org/abs/1902.10640",
+        "url_title": "[1902.10640] Efficient Video Classification Using Fewer Frames"
+    },
+    {
+        "query": "Joint Discriminative and Generative Learning for Person Re-identification",
+        "url": "https://arxiv.org/abs/1904.07223",
+        "url_title": "[1904.07223] Joint Discriminative and Generative Learning for Person Re-identification"
+    },
+    {
+        "query": "Unsupervised Person Re-identification by Soft Multilabel Learning",
+        "url": "https://arxiv.org/abs/1903.06325",
+        "url_title": "[1903.06325] Unsupervised Person Re-identification by Soft Multilabel Learning"
+    },
+    {
+        "query": "Learning Context Graph for Person Search",
+        "url": "https://arxiv.org/abs/1904.01830",
+        "url_title": "[1904.01830] Learning Context Graph for Person Search"
+    },
+    {
+        "query": "Doodle to Search: Practical Zero-Shot Sketch-based Image Retrieval",
+        "url": "https://arxiv.org/abs/1904.03451",
+        "url_title": "[1904.03451] Doodle to Search: Practical Zero-Shot Sketch-based Image Retrieval"
+    },
+    {
+        "query": "Zero-Shot Task Transfer",
+        "url": "https://arxiv.org/abs/1903.01092",
+        "url_title": "[1903.01092] Zero-Shot Task Transfer"
+    },
+    {
+        "query": "C-MIL: Continuation Multiple Instance Learning for Weakly Supervised Object Detection",
+        "url": "https://arxiv.org/abs/1904.05647",
+        "url_title": "[1904.05647] C-MIL: Continuation Multiple Instance Learning for Weakly Supervised Object Detection"
+    },
+    {
+        "query": "Learning Inter-pixel Relations for Weakly Supervised Instance Segmentation",
+        "url": "https://arxiv.org/abs/1904.05044",
+        "url_title": "[1904.05044] Weakly Supervised Learning of Instance Segmentation with Inter-pixel Relations"
+    },
+    {
+        "query": "Domain Generalization by Solving Jigsaw Puzzles",
+        "url": "https://arxiv.org/abs/1903.06864",
+        "url_title": "[1903.06864] Domain Generalization by Solving Jigsaw Puzzles"
+    },
+    {
+        "query": "Transferrable Prototypical Networks for Unsupervised Domain Adaptation",
+        "url": "https://arxiv.org/abs/1904.11227",
+        "url_title": "[1904.11227] Transferrable Prototypical Networks for Unsupervised Domain Adaptation"
+    },
+    {
+        "query": "Adversarial Meta-Adaptation Network for Blending-target Domain Adaptation",
+        "url": "https://arxiv.org/abs/1904.04663",
+        "url_title": "[1904.04663] Domain-Symmetric Networks for Adversarial Domain Adaptation"
+    },
+    {
+        "query": "ELASTIC: Improving CNNs by Instance Specific Scaling Policies",
+        "url": "https://arxiv.org/abs/1812.05262",
+        "url_title": "[1812.05262] ELASTIC: Improving CNNs with Dynamic Scaling Policies"
+    },
+    {
+        "query": "ScratchDet: Training Single-Shot Object Detectors from Scratch",
+        "url": "https://arxiv.org/abs/1810.08425",
+        "url_title": "[1810.08425] ScratchDet: Training Single-Shot Object Detectors from Scratch"
+    },
+    {
+        "query": "SFNet: Learning Object-aware Semantic Correspondence",
+        "url": "https://arxiv.org/abs/1904.01810",
+        "url_title": "[1904.01810] SFNet: Learning Object-aware Semantic Correspondence"
+    },
+    {
+        "query": "Deep Metric Learning Beyond Binary Supervision",
+        "url": "https://arxiv.org/abs/1904.09626",
+        "url_title": "[1904.09626] Deep Metric Learning Beyond Binary Supervision"
+    },
+    {
+        "query": "Learning to Cluster Faces on an Affinity Graph",
+        "url": "https://arxiv.org/abs/1904.02749",
+        "url_title": "[1904.02749] Learning to Cluster Faces on an Affinity Graph"
+    },
+    {
+        "query": "C2AE: Class Conditioned Auto-Encoder for Open-set Recognition",
+        "url": "https://arxiv.org/abs/1904.01198",
+        "url_title": "[1904.01198] C2AE: Class Conditioned Auto-Encoder for Open-set Recognition"
+    },
+    {
+        "query": "Shapes and Context: In-the-wild Image Synthesis & Manipulation",
+        "url": "https://arxiv.org/abs/1809.04696",
+        "url_title": "[1809.04696] Geometric Image Synthesis"
+    },
+    {
+        "query": "Semantics Disentangling for Text-to-Image Generation",
+        "url": "https://arxiv.org/abs/1904.01480",
+        "url_title": "[1904.01480] Semantics Disentangling for Text-to-Image Generation"
+    },
+    {
+        "query": "Semantic Image Synthesis with Spatially-Adaptive Normalization",
+        "url": "https://arxiv.org/abs/1903.07291",
+        "url_title": "[1903.07291] Semantic Image Synthesis with Spatially-Adaptive Normalization"
+    },
+    {
+        "query": "Progressive Pose Attention Transfer for Person Image Generation",
+        "url": "https://arxiv.org/abs/1904.03349",
+        "url_title": "[1904.03349] Progressive Pose Attention Transfer for Person Image Generation"
+    },
+    {
+        "query": "Unsupervised Person Image Generation with Semantic Parsing Transformation",
+        "url": "https://arxiv.org/abs/1904.03379",
+        "url_title": "[1904.03379] Unsupervised Person Image Generation with Semantic Parsing Transformation"
+    },
+    {
+        "query": "DeepView: View synthesis with learned gradient descent",
+        "url": "https://arxiv.org/abs/1804.09690",
+        "url_title": "[1804.09690] Fast View Synthesis with Deep Stereo Vision"
+    },
+    {
+        "query": "Animating Arbitrary Objects via Deep Motion Transfer",
+        "url": "https://arxiv.org/abs/1812.08861",
+        "url_title": "[1812.08861] Animating Arbitrary Objects via Deep Motion Transfer"
+    },
+    {
+        "query": "Textured Neural Avatars",
+        "url": "https://arxiv.org/abs/1905.08776",
+        "url_title": "[1905.08776] Textured Neural Avatars"
+    },
+    {
+        "query": "IM-Net for High Resolution Video Frame Interpolation",
+        "url": "https://arxiv.org/abs/1804.00884",
+        "url_title": "[1804.00884] PhaseNet for Video Frame Interpolation"
+    },
+    {
+        "query": "Homomorphic Latent Space Interpolation for Unpaired Image-to-image Translation",
+        "url": "https://arxiv.org/papers/unpairimagetranslation_cvpr19.pdf",
+        "url_title": "Not found"
+    },
+    {
+        "query": "Multi-Channel Attention Selection GAN with Cascaded Semantic Guidance for Cross-View Image Translation",
+        "url": "https://arxiv.org/abs/1904.06807",
+        "url_title": "[1904.06807] Multi-Channel Attention Selection GAN with Cascaded Semantic Guidance for Cross-View Image Translation"
+    },
+    {
+        "query": "Geometry-Consistent Generative Adversarial Networks for One-Sided Unsupervised Domain Mapping",
+        "url": "https://arxiv.org/abs/1809.05852",
+        "url_title": "[1809.05852] Geometry-Consistent Generative Adversarial Networks for One-Sided Unsupervised Domain Mapping"
+    },
+    {
+        "query": "DeepVoxels: Learning Persistent 3D Feature Embeddings",
+        "url": "https://arxiv.org/abs/1812.01024",
+        "url_title": "[1812.01024] DeepVoxels: Learning Persistent 3D Feature Embeddings"
+    },
+    {
+        "query": "Inverse Path Tracing for Joint Material and Lighting Estimation",
+        "url": "https://arxiv.org/abs/1903.07145",
+        "url_title": "[1903.07145] Inverse Path Tracing for Joint Material and Lighting Estimation"
+    },
+    {
+        "query": "The Visual Centrifuge: Model-Free Layered Video Representations",
+        "url": "https://arxiv.org/abs/1812.01461",
+        "url_title": "[1812.01461] The Visual Centrifuge: Model-Free Layered Video Representations"
+    },
+    {
+        "query": "Label-Noise Robust Generative Adversarial Networks",
+        "url": "https://arxiv.org/abs/1811.11165",
+        "url_title": "[1811.11165] Label-Noise Robust Generative Adversarial Networks"
+    },
+    {
+        "query": "DLOW: Domain Flow for Adaptation and Generalization",
+        "url": "https://arxiv.org/abs/1812.05418",
+        "url_title": "[1812.05418] DLOW: Domain Flow for Adaptation and Generalization"
+    },
+    {
+        "query": "CollaGAN: Collaborative GAN for Missing Image Data Imputation",
+        "url": "https://arxiv.org/abs/1901.09764",
+        "url_title": "[1901.09764] CollaGAN : Collaborative GAN for Missing Image Data Imputation"
+    },
+    {
+        "query": "d-SNE: Domain Adaptation using Stochastic Neighborhood Embedding",
+        "url": "https://arxiv.org/abs/1811.01247?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+arxiv%2FQSXk+%28ExcitingAds%21+cs+updates+on+arXiv.org%29",
+        "url_title": "[1811.01247] Stochastic Neighbor Embedding under f-divergences"
+    },
+    {
+        "query": "Taking A Closer Look at Domain Shift: Category-level Adversaries for Semantics Consistent Domain Adaptation",
+        "url": "https://arxiv.org/abs/1809.09478",
+        "url_title": "[1809.09478] Taking A Closer Look at Domain Shift: Category-level Adversaries for Semantics Consistent Domain Adaptation"
+    },
+    {
+        "query": "ADVENT: Adversarial Entropy Minimization for Domain Adaptation in Semantic Segmentation",
+        "url": "https://arxiv.org/abs/1811.12833",
+        "url_title": "[1811.12833] ADVENT: Adversarial Entropy Minimization for Domain Adaptation in Semantic Segmentation"
+    },
+    {
+        "query": "Local Feature Augmentation with Cross-Modality Context",
+        "url": "https://arxiv.org/abs/1904.04084",
+        "url_title": "[1904.04084] ContextDesc: Local Descriptor Augmentation with Cross-Modality Context"
+    },
+    {
+        "query": "Large-scale Long-Tailed Recognition in an Open World",
+        "url": "https://arxiv.org/abs/1904.05160",
+        "url_title": "[1904.05160] Large-Scale Long-Tailed Recognition in an Open World"
+    },
+    {
+        "query": "AET vs. AED: Unsupervised Representation Learning by Auto-Encoding Transformations rather than Data",
+        "url": "https://arxiv.org/abs/1901.04596",
+        "url_title": "[1901.04596] AET vs. AED: Unsupervised Representation Learning by Auto-Encoding Transformations rather than Data"
+    },
+    {
+        "query": "SDC - Stacked Dilated Convolution: A Unified Descriptor Network for Dense Matching Tasks",
+        "url": "https://arxiv.org/abs/1904.03076",
+        "url_title": "[1904.03076] SDC - Stacked Dilated Convolution: A Unified Descriptor Network for Dense Matching Tasks"
+    },
+    {
+        "query": "Learning Correspondence from the Cycle-consistency of Time",
+        "url": "https://arxiv.org/abs/1903.07593",
+        "url_title": "[1903.07593] Learning Correspondence from the Cycle-Consistency of Time"
+    },
+    {
+        "query": "Mitigating Information Leakage in Image Representations: A Maximum Entropy Approach",
+        "url": "https://arxiv.org/abs/1904.05514",
+        "url_title": "[1904.05514] Mitigating Information Leakage in Image Representations: A Maximum Entropy Approach"
+    },
+    {
+        "query": "Learning Spatial Common Sense with Geometry-Aware Recurrent Networks",
+        "url": "https://arxiv.org/abs/1901.00003",
+        "url_title": "[1901.00003] Learning Spatial Common Sense with Geometry-Aware Recurrent Networks"
+    },
+    {
+        "query": "Structured Knowledge Distillation for Semantic Segmentation",
+        "url": "https://arxiv.org/abs/1903.04197",
+        "url_title": "[1903.04197] Structured Knowledge Distillation for Semantic Segmentation"
+    },
+    {
+        "query": "Scan2CAD: Learning CAD Model Alignment in RGB-D Scans",
+        "url": "https://arxiv.org/abs/1811.11187",
+        "url_title": "[1811.11187] Scan2CAD: Learning CAD Model Alignment in RGB-D Scans"
+    },
+    {
+        "query": "Tell Me Where I Am: Object-level Scene Context Prediction",
+        "url": "https://arxiv.org/abs/1811.09783",
+        "url_title": "[1811.09783] What and Where: A Context-based Recommendation System for Object Insertion"
+    },
+    {
+        "query": "Normalized Object Coordinate Space for Category-Level 6D Object Pose and Size Estimation",
+        "url": "https://arxiv.org/abs/1901.02970",
+        "url_title": "[1901.02970] Normalized Object Coordinate Space for Category-Level 6D Object Pose and Size Estimation"
+    },
+    {
+        "query": "Supervised Fitting of Geometric Primitives to 3D Point Clouds",
+        "url": "https://arxiv.org/abs/1811.08988",
+        "url_title": "[1811.08988] Supervised Fitting of Geometric Primitives to 3D Point Clouds"
+    },
+    {
+        "query": "Do Better ImageNet Models Transfer Better?",
+        "url": "https://arxiv.org/abs/1805.08974",
+        "url_title": "[1805.08974] Do Better ImageNet Models Transfer Better?"
+    },
+    {
+        "query": "Learning Video Representations from Correspondence Proposals",
+        "url": "https://arxiv.org/abs/1905.07853",
+        "url_title": "[1905.07853] Learning Video Representations from Correspondence Proposals"
+    },
+    {
+        "query": "SiamRPN++: Evolution of Siamese Visual Tracking with Very Deep Networks",
+        "url": "https://arxiv.org/abs/1812.11703",
+        "url_title": "[1812.11703] SiamRPN++: Evolution of Siamese Visual Tracking with Very Deep Networks"
+    },
+    {
+        "query": "Sphere Generative Adversarial Network Based on Geometric Moment Matching",
+        "url": "https://arxiv.org/abs/1901.10178",
+        "url_title": "[1901.10178] Generative Adversarial Networks for geometric surfaces prediction in injection molding"
+    },
+    {
+        "query": "Adversarial Attacks Beyond the Image Space",
+        "url": "https://arxiv.org/abs/1711.07183",
+        "url_title": "[1711.07183] Adversarial Attacks Beyond the Image Space"
+    },
+    {
+        "query": "Evading Defenses to Transferable Adversarial Examples by Translation-Invariant Attacks",
+        "url": "https://arxiv.org/abs/1904.02884",
+        "url_title": "[1904.02884] Evading Defenses to Transferable Adversarial Examples by Translation-Invariant Attacks"
+    },
+    {
+        "query": "Decoupling Direction and Norm for Efficient Gradient-Based L2 Adversarial Attacks and Defenses",
+        "url": "https://arxiv.org/abs/1811.09600",
+        "url_title": "[1811.09600] Decoupling Direction and Norm for Efficient Gradient-Based L2 Adversarial Attacks and Defenses"
+    },
+    {
+        "query": "A General and Adaptive Robust Loss Function",
+        "url": "https://arxiv.org/abs/1701.03077?context=cs",
+        "url_title": "[1701.03077] A General and Adaptive Robust Loss Function"
+    },
+    {
+        "query": "Filter Pruning via Geometric Median for Deep Convolutional Neural Networks Acceleration",
+        "url": "https://arxiv.org/abs/1811.00250",
+        "url_title": "[1811.00250] Filter Pruning via Geometric Median for Deep Convolutional Neural Networks Acceleration"
+    },
+    {
+        "query": "Learning to Quantize Deep Networks by Optimizing Quantization Intervals with Task Loss",
+        "url": "https://arxiv.org/abs/1808.05779",
+        "url_title": "[1808.05779] Learning to Quantize Deep Networks by Optimizing Quantization Intervals with Task Loss"
+    },
+    {
+        "query": "Not All Areas Are Equal: Transfer Learning for Semantic Segmentation via Hierarchical Region Selection",
+        "url": "https://arxiv.org/shijianping.me/pub.html",
+        "url_title": "Not found"
+    },
+    {
+        "query": "Unsupervised Learning of Dense Shape Correspondence",
+        "url": "https://arxiv.org/abs/1812.02415",
+        "url_title": "[1812.02415] Self-supervised Learning of Dense Shape Correspondence"
+    },
+    {
+        "query": "Unsupervised Visual Domain Adaptation: A Deep Max-Margin Gaussian Process Approach",
+        "url": "https://arxiv.org/abs/1902.08727",
+        "url_title": "[1902.08727] Unsupervised Visual Domain Adaptation: A Deep Max-Margin Gaussian Process Approach"
+    },
+    {
+        "query": "Balanced Self-Paced Learning for Generative Adversarial Clustering Network",
+        "url": "https://arxiv.org/abs/1809.03627",
+        "url_title": "[1809.03627] ClusterGAN : Latent Space Clustering in Generative Adversarial Networks"
+    },
+    {
+        "query": "A Style-Based Generator Architecture for Generative Adversarial Networks",
+        "url": "https://arxiv.org/abs/1812.04948",
+        "url_title": "[1812.04948] A Style-Based Generator Architecture for Generative Adversarial Networks"
+    },
+    {
+        "query": "Parallel Optimal Transport GAN",
+        "url": "https://arxiv.org/abs/1803.05573",
+        "url_title": "[1803.05573] Improving GANs Using Optimal Transport"
+    },
+    {
+        "query": "3D-SIS: 3D Semantic Instance Segmentation of RGB-D Scans",
+        "url": "https://arxiv.org/abs/1812.07003",
+        "url_title": "[1812.07003] 3D-SIS: 3D Semantic Instance Segmentation of RGB-D Scans"
+    },
+    {
+        "query": "Causes and Corrections for Bimodal Multipath Scanning with Structured Light",
+        "url": "https://arxiv.org/abs/1706.02715",
+        "url_title": "[1706.02715] Causes and Corrections for Bimodal Multipath Scanning with Structured Light"
+    },
+    {
+        "query": "TextureNet: Consistent Local Parametrizations for Learning from High-Resolution Signals on Meshes",
+        "url": "https://arxiv.org/abs/1812.00020",
+        "url_title": "[1812.00020] TextureNet: Consistent Local Parametrizations for Learning from High-Resolution Signals on Meshes"
+    },
+    {
+        "query": "PlaneRCNN: 3D Plane Detection and Reconstruction from a Single View",
+        "url": "https://arxiv.org/abs/1812.04072",
+        "url_title": "[1812.04072] PlaneRCNN: 3D Plane Detection and Reconstruction from a Single Image"
+    },
+    {
+        "query": "Occupancy Networks: Learning 3D Reconstruction in Function Space",
+        "url": "https://arxiv.org/abs/1812.03828",
+        "url_title": "[1812.03828] Occupancy Networks: Learning 3D Reconstruction in Function Space"
+    },
+    {
+        "query": "3D Shape Reconstruction from Images in the Frequency Domain",
+        "url": "https://arxiv.org/abs/1811.12016",
+        "url_title": "[1811.12016] 3D Shape Reconstruction from a Single 2D Image via 2D-3D Self-Consistency"
+    },
+    {
+        "query": "SiCloPe: Silhouette-based Clothed People",
+        "url": "https://arxiv.org/abs/1901.00049",
+        "url_title": "[1901.00049] SiCloPe: Silhouette-Based Clothed People"
+    },
+    {
+        "query": "Detailed Human Shape Estimation from a Single Image by Hierarchical Mesh Deformation",
+        "url": "https://arxiv.org/abs/1904.10506",
+        "url_title": "[1904.10506] Detailed Human Shape Estimation from a Single Image by Hierarchical Mesh Deformation"
+    },
+    {
+        "query": "Convolutional Mesh Regression for Single-Image Human Shape Reconstruction",
+        "url": "https://arxiv.org/abs/1905.03244?context=cs",
+        "url_title": "[1905.03244] Convolutional Mesh Regression for Single-Image Human Shape Reconstruction"
+    },
+    {
+        "query": "H+O: Unified Egocentric Recognition of 3D Hand-Object Poses and Interactions",
+        "url": "https://arxiv.org/abs/1904.05349",
+        "url_title": "[1904.05349] H+O: Unified Egocentric Recognition of 3D Hand-Object Poses and Interactions"
+    },
+    {
+        "query": "Learning the Depths of Moving People by Watching Frozen People",
+        "url": "https://arxiv.org/abs/1904.11111",
+        "url_title": "[1904.11111] Learning the Depths of Moving People by Watching Frozen People"
+    },
+    {
+        "query": "Extreme Relative Pose Estimation for RGB-D Scans via Scene Completion",
+        "url": "https://arxiv.org/abs/1901.00063",
+        "url_title": "[1901.00063] Extreme Relative Pose Estimation for RGB-D Scans via Scene Completion"
+    },
+    {
+        "query": "A Skeleton-bridged Deep Learning Approach for Generating Meshes of Complex Topologies from Single RGB Images",
+        "url": "https://arxiv.org/abs/1903.04704",
+        "url_title": "[1903.04704] A Skeleton-bridged Deep Learning Approach for Generating Meshes of Complex Topologies from Single RGB Images"
+    },
+    {
+        "query": "Structure-And-Motion-Aware Rolling Shutter Correction",
+        "url": "https://arxiv.org/abs/1903.03943",
+        "url_title": "[1903.03943] Rolling-Shutter-Aware Differential SfM and Image Rectification"
+    },
+    {
+        "query": "PVNet: Pixel-wise Voting Network for 6DoF Pose Estimation",
+        "url": "https://arxiv.org/abs/1812.11788",
+        "url_title": "[1812.11788] PVNet: Pixel-wise Voting Network for 6DoF Pose Estimation"
+    },
+    {
+        "query": "Learning Optical Flow with Occlusion Hallucination",
+        "url": "https://arxiv.org/abs/1904.09117",
+        "url_title": "[1904.09117] SelFlow: Self-Supervised Learning of Optical Flow"
+    },
+    {
+        "query": "Taking a Deeper Look at the Inverse Compositional Algorithm",
+        "url": "https://arxiv.org/abs/1812.06861",
+        "url_title": "[1812.06861] Taking a Deeper Look at the Inverse Compositional Algorithm"
+    },
+    {
+        "query": "Deeper and Wider Siamese Networks for Real-Time Visual Tracking",
+        "url": "https://arxiv.org/abs/1901.01660",
+        "url_title": "[1901.01660] Deeper and Wider Siamese Networks for Real-Time Visual Tracking"
+    },
+    {
+        "query": "Efficient Online Multi-Person 2D Pose Tracking with Recurrent Spatio-Temporal Affinity Fields",
+        "url": "https://arxiv.org/abs/1811.11975",
+        "url_title": "[1811.11975] Efficient Online Multi-Person 2D Pose Tracking with Recurrent Spatio-Temporal Affinity Fields"
+    },
+    {
+        "query": "Eliminating Exposure Bias and Loss-Evaluation Mismatch in Multiple Object Tracking",
+        "url": "https://arxiv.org/abs/1811.10984",
+        "url_title": "[1811.10984] Eliminating Exposure Bias and Loss-Evaluation Mismatch in Multiple Object Tracking"
+    },
+    {
+        "query": "Graph Convolutional Tracking",
+        "url": "https://arxiv.org/abs/1902.07153",
+        "url_title": "[1902.07153] Simplifying Graph Convolutional Networks"
+    },
+    {
+        "query": "ATOM: Accurate Tracking by Overlap Maximization",
+        "url": "https://arxiv.org/abs/1811.07628",
+        "url_title": "[1811.07628] ATOM: Accurate Tracking by Overlap Maximization"
+    },
+    {
+        "query": "Deep Tree Learning for Zero-shot Face Anti-Spoofing",
+        "url": "https://arxiv.org/abs/1904.02860",
+        "url_title": "[1904.02860] Deep Tree Learning for Zero-shot Face Anti-Spoofing"
+    },
+    {
+        "query": "ArcFace: Additive Angular Margin Loss for Deep Face Recognition",
+        "url": "https://arxiv.org/abs/1801.07698",
+        "url_title": "[1801.07698] ArcFace: Additive Angular Margin Loss for Deep Face Recognition"
+    },
+    {
+        "query": "Learning Joint Unique-Gait and Cross-Gait Representation by Minimizing Quintuplet Loss",
+        "url": "https://arxiv.org/abs/1811.06186",
+        "url_title": "[1811.06186] GaitSet: Regarding Gait as a Set for Cross-View Gait Recognition"
+    },
+    {
+        "query": "Gait Recognition via Disentangled Representation Learning",
+        "url": "https://arxiv.org/abs/1904.04925",
+        "url_title": "[1904.04925] Gait Recognition via Disentangled Representation Learning"
+    },
+    {
+        "query": "Panoptic Feature Pyramid Network",
+        "url": "https://arxiv.org/abs/1901.02446",
+        "url_title": "[1901.02446] Panoptic Feature Pyramid Networks"
+    },
+    {
+        "query": "Mask Scoring R-CNN",
+        "url": "https://arxiv.org/abs/1903.00241",
+        "url_title": "[1903.00241] Mask Scoring R-CNN"
+    },
+    {
+        "query": "Reasoning-RCNN: Unifying Adaptive Global Reasoning into Large-scale Object Detection",
+        "url": "https://arxiv.org/abs/1810.12681",
+        "url_title": "[1810.12681] Hybrid Knowledge Routed Modules for Large-scale Object Detection"
+    },
+    {
+        "query": "Cross-Modality Personalization for Retrieval",
+        "url": "https://arxiv.org/abs/1807.07364",
+        "url_title": "[1807.07364] Revisiting Cross Modal Retrieval"
+    },
+    {
+        "query": "Composing Text and Image for Image Retrieval - An Empirical Odyssey",
+        "url": "https://arxiv.org/abs/1812.07119",
+        "url_title": "[1812.07119] Composing Text and Image for Image Retrieval - An Empirical Odyssey"
+    },
+    {
+        "query": "Arbitrary Shape Scene Text Detection with Adaptive Text Region Representation",
+        "url": "https://arxiv.org/abs/1905.05980",
+        "url_title": "[1905.05980] Arbitrary Shape Scene Text Detection with Adaptive Text Region Representation"
+    },
+    {
+        "query": "Adaptive NMS: Refining Pedestrian Detection in a Crowd",
+        "url": "https://arxiv.org/abs/1904.03629",
+        "url_title": "[1904.03629] Adaptive NMS: Refining Pedestrian Detection in a Crowd"
+    },
+    {
+        "query": "Point in, Box out: Beyond Counting Persons in Crowds",
+        "url": "https://arxiv.org/abs/1904.01333",
+        "url_title": "[1904.01333] Point in, Box out: Beyond Counting Persons in Crowds"
+    },
+    {
+        "query": "Locating Objects Without Bounding Boxes",
+        "url": "https://arxiv.org/abs/1806.07564",
+        "url_title": "[1806.07564] Locating Objects Without Bounding Boxes"
+    },
+    {
+        "query": "FineGAN: Unsupervised Hierarchical Disentanglement for Fine-Grained Object Generation and Discovery",
+        "url": "https://arxiv.org/abs/1811.11155",
+        "url_title": "[1811.11155] FineGAN: Unsupervised Hierarchical Disentanglement for Fine-Grained Object Generation and Discovery"
+    },
+    {
+        "query": "Mutual Learning of Complementary Networks via Residual Correction for Improving Semi-Supervised Classification",
+        "url": "https://arxiv.org/abs/1606.03498",
+        "url_title": "[1606.03498] Improved Techniques for Training GANs"
+    },
+    {
+        "query": "Sampling Techniques for Large-Scale Object Detection from Sparsely Annotated Objects",
+        "url": "https://arxiv.org/abs/1811.10862",
+        "url_title": "[1811.10862] Sampling Techniques for Large-Scale Object Detection from Sparsely Annotated Objects"
+    },
+    {
+        "query": "Curls & Whey: Boosting Black-Box Adversarial Attacks",
+        "url": "https://arxiv.org/abs/1904.01160",
+        "url_title": "[1904.01160] Curls & Whey: Boosting Black-Box Adversarial Attacks"
+    },
+    {
+        "query": "Barrage of Random Transforms for Adversarially Robust Defense",
+        "url": "https://arxiv.org/abs/1808.01785",
+        "url_title": "[1808.01785] Defense Against Adversarial Attacks with Saak Transform"
+    },
+    {
+        "query": "Aggregation Cross-Entropy for Sequence Recognition",
+        "url": "https://arxiv.org/abs/1904.08364",
+        "url_title": "[1904.08364] Aggregation Cross-Entropy for Sequence Recognition"
+    },
+    {
+        "query": "LaSO: Label-Set Operations networks for multi-label few-shot learning",
+        "url": "https://arxiv.org/abs/1902.09811",
+        "url_title": "[1902.09811] LaSO: Label-Set Operations networks for multi-label few-shot learning"
+    },
+    {
+        "query": "Few-Shot Learning with Localization in Realistic Settings",
+        "url": "https://arxiv.org/abs/1904.08502",
+        "url_title": "[1904.08502] Few-Shot Learning with Localization in Realistic Settings"
+    },
+    {
+        "query": "AdaGraph: Unifying Predictive and Continuous Domain Adaptation through Graphs",
+        "url": "https://arxiv.org/abs/1903.07062",
+        "url_title": "[1903.07062] AdaGraph: Unifying Predictive and Continuous Domain Adaptation through Graphs"
+    },
+    {
+        "query": "Grounded Video Description",
+        "url": "https://arxiv.org/abs/1812.06587",
+        "url_title": "[1812.06587] Grounded Video Description"
+    },
+    {
+        "query": "Streamlined Dense Video Captioning",
+        "url": "https://arxiv.org/abs/1904.03870",
+        "url_title": "[1904.03870] Streamlined Dense Video Captioning"
+    },
+    {
+        "query": "Adversarial Inference for Multi-Sentence Video Description",
+        "url": "https://arxiv.org/abs/1812.05634",
+        "url_title": "[1812.05634] Adversarial Inference for Multi-Sentence Video Description"
+    },
+    {
+        "query": "Unified Visual-Semantic Emebddings: Bridging Vision and Language with Structured Meaning Representations",
+        "url": "https://arxiv.org/abs/1904.05521",
+        "url_title": "[1904.05521] UniVSE: Robust Visual Semantic Embeddings via Structured Semantic Representations"
+    },
+    {
+        "query": "Learning to Compose Dynamic Tree Structures for Visual Contexts",
+        "url": "https://arxiv.org/abs/1812.01880",
+        "url_title": "[1812.01880] Learning to Compose Dynamic Tree Structures for Visual Contexts"
+    },
+    {
+        "query": "Reinforced Cross-Modal Matching and Self-Supervised Imitation Learning for Vision-Language Navigation",
+        "url": "https://arxiv.org/abs/1811.10092",
+        "url_title": "[1811.10092] Reinforced Cross-Modal Matching and Self-Supervised Imitation Learning for Vision-Language Navigation"
+    },
+    {
+        "query": "Dynamic Fusion with Intra- and Inter-modality Attention Flow for Visual Question Answering",
+        "url": "https://arxiv.org/abs/1812.05252",
+        "url_title": "[1812.05252] Dynamic Fusion with Intra- and Inter- Modality Attention Flow for Visual Question Answering"
+    },
+    {
+        "query": "Cycle-Consistency for Robust Visual Question Answering",
+        "url": "https://arxiv.org/abs/1902.05660",
+        "url_title": "[1902.05660] Cycle-Consistency for Robust Visual Question Answering"
+    },
+    {
+        "query": "Embodied Question Answering in Photorealistic Environments with Point Cloud Perception",
+        "url": "https://arxiv.org/abs/1904.03461",
+        "url_title": "[1904.03461] Embodied Question Answering in Photorealistic Environments with Point Cloud Perception"
+    },
+    {
+        "query": "Reasoning Visual Dialogs with Structural and Partial Observations",
+        "url": "https://arxiv.org/abs/1904.05548",
+        "url_title": "[1904.05548] Reasoning Visual Dialogs with Structural and Partial Observations"
+    },
+    {
+        "query": "Recursive Visual Attention in Visual Dialog",
+        "url": "https://arxiv.org/abs/1812.02664",
+        "url_title": "[1812.02664] Recursive Visual Attention in Visual Dialog"
+    },
+    {
+        "query": "Two Body Problem: Collaborative Visual Task Completion",
+        "url": "https://arxiv.org/abs/1904.05879",
+        "url_title": "[1904.05879] Two Body Problem: Collaborative Visual Task Completion"
+    },
+    {
+        "query": "GQA: a new dataset for compositional question answering over real-world images",
+        "url": "https://arxiv.org/abs/1902.09506",
+        "url_title": "[1902.09506] GQA: A New Dataset for Real-World Visual Reasoning and Compositional Question Answering"
+    },
+    {
+        "query": "Text2Scene: Generating Compositional Scenes from Textual Descriptions",
+        "url": "https://arxiv.org/abs/1809.01110",
+        "url_title": "[1809.01110] Text2Scene: Generating Compositional Scenes from Textual Descriptions"
+    },
+    {
+        "query": "From Recognition to Cognition: Visual Commonsense Reasoning",
+        "url": "https://arxiv.org/abs/1811.10830",
+        "url_title": "[1811.10830] From Recognition to Cognition: Visual Commonsense Reasoning"
+    },
+    {
+        "query": "The Regretful Agent: Heuristic-Aided Navigation through Progress Estimation",
+        "url": "https://arxiv.org/abs/1903.01602",
+        "url_title": "[1903.01602] The Regretful Agent: Heuristic-Aided Navigation through Progress Estimation"
+    },
+    {
+        "query": "Tactical Rewind: Self-Correction via Backtracking in Vision-and-Language Navigation",
+        "url": "https://arxiv.org/abs/1903.02547",
+        "url_title": "[1903.02547] Tactical Rewind: Self-Correction via Backtracking in Vision-and-Language Navigation"
+    },
+    {
+        "query": "Learning to Learn How to Learn: Self-Adaptive Visual Navigation using Meta-Learning",
+        "url": "https://arxiv.org/abs/1812.00971",
+        "url_title": "[1812.00971] Learning to Learn How to Learn: Self-Adaptive Visual Navigation Using Meta-Learning"
+    },
+    {
+        "query": "From One Photon to a Billion: High Flux Imaging with Single-Photon Sensors",
+        "url": "https://arxiv.org/abs/1902.10190",
+        "url_title": "[1902.10190] High Flux Passive Imaging with Single-Photon Sensors"
+    },
+    {
+        "query": "Photon-Flooded Single-Photon 3D Cameras",
+        "url": "https://arxiv.org/abs/1903.08347",
+        "url_title": "[1903.08347] Photon-Flooded Single-Photon 3D Cameras"
+    },
+    {
+        "query": "Acoustic Non-Line-of-Sight Imaging",
+        "url": "https://arxiv.org/abs/1811.09910",
+        "url_title": "[1811.09910] Steady-state Non-Line-of-Sight Imaging"
+    },
+    {
+        "query": "Steady-state Non-Line-of-Sight Imaging",
+        "url": "https://arxiv.org/abs/1811.09910",
+        "url_title": "[1811.09910] Steady-state Non-Line-of-Sight Imaging"
+    },
+    {
+        "query": "A Theory of Fermat Paths for Non-Line-of-Sight Shape Reconstruction",
+        "url": "https://arxiv.org/2019/Fermat_CVPR19.pdf",
+        "url_title": "Not found"
+    },
+    {
+        "query": "End-to-end Projector Photometric Compensation",
+        "url": "https://arxiv.org/abs/1904.04335",
+        "url_title": "[1904.04335] End-to-end Projector Photometric Compensation"
+    },
+    {
+        "query": "Bringing a Blurry Frame Alive at High Frame-Rate with an Event Camera",
+        "url": "https://arxiv.org/abs/1811.10180",
+        "url_title": "[1811.10180] Bringing a Blurry Frame Alive at High Frame-Rate with an Event Camera"
+    },
+    {
+        "query": "Bringing Alive Blurred Moments!",
+        "url": "https://arxiv.org/abs/1804.02913",
+        "url_title": "[1804.02913] Bringing Alive Blurred Moments"
+    },
+    {
+        "query": "Learning to Synthesize Motion Blur",
+        "url": "https://arxiv.org/abs/1811.11745",
+        "url_title": "[1811.11745] Learning to Synthesize Motion Blur"
+    },
+    {
+        "query": "Underexposed Photo Enhancement using Deep Illumination Estimation",
+        "url": "https://arxiv.org/papers/photoenhance_cvpr19.pdf",
+        "url_title": "Not found"
+    },
+    {
+        "query": "Blind Visual Motif Removal from a Single Image",
+        "url": "https://arxiv.org/abs/1904.02756",
+        "url_title": "[1904.02756] Blind Visual Motif Removal from a Single Image"
+    },
+    {
+        "query": "Non-local Meets Global: An Integrated Paradigm for Hyperspectral Denoising",
+        "url": "https://arxiv.org/abs/1812.04243",
+        "url_title": "[1812.04243] Non-local Meets Global: An Integrated Paradigm for Hyperspectral Denoising"
+    },
+    {
+        "query": "Total Scene Capture: Neural Rerendering in the Wild",
+        "url": "https://arxiv.org/abs/1904.04290",
+        "url_title": "[1904.04290] Neural Rerendering in the Wild"
+    },
+    {
+        "query": "GeoNet: Deep Geodesic Networks for Point Cloud Analysis",
+        "url": "https://arxiv.org/abs/1901.00680",
+        "url_title": "[1901.00680] GeoNet: Deep Geodesic Networks for Point Cloud Analysis"
+    },
+    {
+        "query": "Fast Spatially-Varying Indoor Lighting Estimation",
+        "url": "https://arxiv.org/abs/1905.02722",
+        "url_title": "[1905.02722] Inverse Rendering for Complex Indoor Scenes: Shape, Spatially-Varying Lighting and SVBRDF from a Single Image"
+    },
+    {
+        "query": "Neural Illumination: Lighting Prediction for Indoor Environments",
+        "url": "https://arxiv.org/abs/1704.00090",
+        "url_title": "[1704.00090] Learning to Predict Indoor Illumination from a Single Image"
+    },
+    {
+        "query": "Deep Sky Modeling for Single Image Outdoor Lighting Estimation",
+        "url": "https://arxiv.org/abs/1905.03897",
+        "url_title": "[1905.03897] Deep Sky Modeling for Single Image Outdoor Lighting Estimation"
+    },
+    {
+        "query": "Holistic and Comprehensive Annotation of Clinically Significant Findings on Diverse CT Images: Learning from Radiology Reports and Label Ontology",
+        "url": "https://arxiv.org/abs/1904.04661",
+        "url_title": "[1904.04661] Holistic and Comprehensive Annotation of Clinically Significant Findings on Diverse CT Images: Learning from Radiology Reports and Label Ontology"
+    },
+    {
+        "query": "Robust Histopathology Image Analysis: to Label or to Synthesize?",
+        "url": "https://arxiv.org/2019/Hou_CVPR19.pdf",
+        "url_title": "Not found"
+    },
+    {
+        "query": "Data augmentation with spatial and appearance transforms for one-shot medical image segmentation",
+        "url": "https://arxiv.org/abs/1902.09383",
+        "url_title": "[1902.09383] Data augmentation using learned transformations for one-shot medical image segmentation"
+    },
+    {
+        "query": "Neural Task Graphs: Generalizing to Unseen Tasks from a Single Video Demonstration",
+        "url": "https://arxiv.org/abs/1807.03480",
+        "url_title": "[1807.03480] Neural Task Graphs: Generalizing to Unseen Tasks from a Single Video Demonstration"
+    },
+    {
+        "query": "Beyond Tracking: Selecting Memory and Refining Poses for Deep Visual Odometry",
+        "url": "https://arxiv.org/abs/1904.01892",
+        "url_title": "[1904.01892] Beyond Tracking: Selecting Memory and Refining Poses for Deep Visual Odometry"
+    },
+    {
+        "query": "Image Generation from Layout",
+        "url": "https://arxiv.org/abs/1811.11389",
+        "url_title": "[1811.11389] Image Generation from Layout"
+    },
+    {
+        "query": "Multimodal Explanations by Predicting Counterfactuality in Videos",
+        "url": "https://arxiv.org/abs/1812.01263",
+        "url_title": "[1812.01263] Multimodal Explanations by Predicting Counterfactuality in Videos"
+    },
+    {
+        "query": "Learning to Explain with Complemental Examples",
+        "url": "https://arxiv.org/abs/1812.01280?context=cs",
+        "url_title": "[1812.01280] Learning to Explain with Complemental Examples"
+    },
+    {
+        "query": "HAQ: Hardware-Aware Automated Quantization",
+        "url": "https://arxiv.org/abs/1811.08886",
+        "url_title": "[1811.08886] HAQ: Hardware-Aware Automated Quantization with Mixed Precision"
+    },
+    {
+        "query": "Content Authentication for Neural Imaging Pipelines: End-to-end Optimization of Photo Provenance in Complex Distribution Channels",
+        "url": "https://arxiv.org/abs/1812.01516",
+        "url_title": "[1812.01516] Content Authentication for Neural Imaging Pipelines: End-to-end Optimization of Photo Provenance in Complex Distribution Channels"
+    },
+    {
+        "query": "Inverse Procedural Modeling of Knitwear",
+        "url": "https://arxiv.org/abs/1308.0419",
+        "url_title": "[1308.0419] Inverse Procedural Modeling of Facade Layouts"
+    },
+    {
+        "query": "Estimating 3D Motion and Forces of Person-Object Interactions from Monocular Video",
+        "url": "https://arxiv.org/abs/1904.02683",
+        "url_title": "[1904.02683] Estimating 3D Motion and Forces of Person-Object Interactions from Monocular Video"
+    },
+    {
+        "query": "DeepMapping: Unsupervised Map Estimation From Multiple Point Clouds",
+        "url": "https://arxiv.org/abs/1811.11397",
+        "url_title": "[1811.11397] DeepMapping: Unsupervised Map Estimation From Multiple Point Clouds"
+    },
+    {
+        "query": "End-to-end Interpretable Neural Motion Planner",
+        "url": "https://arxiv.org/abs/1806.05767",
+        "url_title": "[1806.05767] Motion Planning Networks"
+    },
+    {
+        "query": "Divergence Triangle for Joint Training of Generator Model, Energy-based Model, and Inferential Model",
+        "url": "https://arxiv.org/abs/1812.10907",
+        "url_title": "[1812.10907] Divergence Triangle for Joint Training of Generator Model, Energy-based Model, and Inference Model"
+    },
+    {
+        "query": "IMAGE DEFORMATION META-NETWORK FOR ONE-SHOT LEARNING",
+        "url": "https://arxiv.org/openreview.net/forum?id=Sylw7nCqFQ",
+        "url_title": "Not found"
+    },
+    {
+        "query": "Online high-rank matrix completion",
+        "url": "https://arxiv.org/abs/1112.5629",
+        "url_title": "[1112.5629] High-Rank Matrix Completion and Subspace Clustering with Missing Data"
+    },
+    {
+        "query": "Multispectral Imaging for Fine-Grained Recognition of Powders on Complex Backgrounds",
+        "url": "https://arxiv.org/MSPowder/",
+        "url_title": "Not found"
+    },
+    {
+        "query": "ContactDB: Analyzing and Predicting Grasp Contact via Thermal Imaging",
+        "url": "https://arxiv.org/abs/1904.06830",
+        "url_title": "[1904.06830] ContactDB: Analyzing and Predicting Grasp Contact via Thermal Imaging"
+    },
+    {
+        "query": "Robust Subspace Clustering with Independent and Piecewise Identically Distributed Noise Modeling",
+        "url": "https://arxiv.org/abs/1301.2603",
+        "url_title": "[1301.2603] Robust subspace clustering"
+    },
+    {
+        "query": "Self-calibrating Deep Photometric Stereo Networks",
+        "url": "https://arxiv.org/abs/1903.07366",
+        "url_title": "[1903.07366] Self-calibrating Deep Photometric Stereo Networks"
+    },
+    {
+        "query": "Side Window Filtering",
+        "url": "https://arxiv.org/abs/1905.07177",
+        "url_title": "[1905.07177] Side Window Filtering"
+    },
+    {
+        "query": "Defense Against Adversarial Images using Web-Scale Nearest-Neighbor Search",
+        "url": "https://arxiv.org/abs/1903.01612",
+        "url_title": "[1903.01612] Defense Against Adversarial Images using Web-Scale Nearest-Neighbor Search"
+    },
+    {
+        "query": "Incremental Object Learning from Contiguous Views",
+        "url": "https://arxiv.org/abs/1809.09875",
+        "url_title": "[1809.09875] Active Learning for Deep Object Detection"
+    },
+    {
+        "query": "IP102: A Large-Scale Benchmark Dataset for Insect Pest Recognition",
+        "url": "https://arxiv.org/abs/1505.03581",
+        "url_title": "[1505.03581] CAT2000: A Large Scale Fixation Dataset for Boosting Saliency Research"
+    },
+    {
+        "query": "CityFlow: A City-Scale Benchmark for Multi-Target Multi-Camera Vehicle Tracking and Re-Identification",
+        "url": "https://arxiv.org/abs/1903.09254",
+        "url_title": "[1903.09254] CityFlow: A City-Scale Benchmark for Multi-Target Multi-Camera Vehicle Tracking and Re-Identification"
+    },
+    {
+        "query": "Social-IQ: A Question Answering Benchmark for Open-ended Social Intelligence",
+        "url": "https://arxiv.org/abs/1901.05406",
+        "url_title": "[1901.05406] Artificial Intelligence for Social Good"
+    },
+    {
+        "query": "UPSNet: A Unified Panoptic Segmentation Network",
+        "url": "https://arxiv.org/abs/1901.03784",
+        "url_title": "[1901.03784] UPSNet: A Unified Panoptic Segmentation Network"
+    },
+    {
+        "query": "Joint Semantic-Instance Segmentation of 3D Point Clouds Using Multi-Set Label Conditional Random Fields",
+        "url": "https://arxiv.org/abs/1904.00699",
+        "url_title": "[1904.00699] JSIS3D: Joint Semantic-Instance Segmentation of 3D Point Clouds with Multi-Task Pointwise Networks and Multi-Value Conditional Random Fields"
+    },
+    {
+        "query": "Proposal-free instance segmentation with a clustering loss function",
+        "url": "https://arxiv.org/abs/1803.06459",
+        "url_title": "[1803.06459] Learning to Cluster for Proposal-Free Instance Segmentation"
+    },
+    {
+        "query": "Deep Instance Co-segmentation by Co-peak Search and Co-saliency Detection",
+        "url": "https://arxiv.org/papers/Hsu2019DCO.pdf",
+        "url_title": "Not found"
+    },
+    {
+        "query": "Improving Semantic Segmentation via Video Propagation and Label Relaxation",
+        "url": "https://arxiv.org/abs/1812.01593",
+        "url_title": "[1812.01593] Improving Semantic Segmentation via Video Propagation and Label Relaxation"
+    },
+    {
+        "query": "Accel: A Corrective Fusion Network for Efficient Semantic Segmentation on Video",
+        "url": "https://arxiv.org/abs/1807.06667",
+        "url_title": "[1807.06667] Accel: A Corrective Fusion Network for Efficient Semantic Segmentation on Video"
+    },
+    {
+        "query": "Shape2Motion: Joint Analysis of Motion Parts and Attributes from 3D Shapes",
+        "url": "https://arxiv.org/abs/1903.03911",
+        "url_title": "[1903.03911] Shape2Motion: Joint Analysis of Motion Parts and Attributes from 3D Shapes"
+    },
+    {
+        "query": "Relation-Shape Convolutional Neural Network for Point Cloud Analysis",
+        "url": "https://arxiv.org/abs/1904.07601",
+        "url_title": "[1904.07601] Relation-Shape Convolutional Neural Network for Point Cloud Analysis"
+    },
+    {
+        "query": "BubbleNets: Learning to Select the Guidance Frame in Video Object Segmentation by Deep Sorting Frames",
+        "url": "https://arxiv.org/abs/1903.11779",
+        "url_title": "[1903.11779] BubbleNets: Learning to Select the Guidance Frame in Video Object Segmentation by Deep Sorting Frames"
+    },
+    {
+        "query": "Collaborative Global-Local Networks for Memory-Efficient Segmentation of Ultra-high Resolution Images",
+        "url": "https://arxiv.org/abs/1905.06368",
+        "url_title": "[1905.06368] Collaborative Global-Local Networks for Memory-Efficient Segmentation of Ultra-High Resolution Images"
+    },
+    {
+        "query": "Efficient Parameter-free Clustering Using First Neighbor Relations",
+        "url": "https://arxiv.org/abs/1902.11266",
+        "url_title": "[1902.11266] Efficient Parameter-free Clustering Using First Neighbor Relations"
+    },
+    {
+        "query": "Learning Personalized Modular Network Guided by Structured Knowledge",
+        "url": "https://arxiv.org/zhengzhugithub/CV-arXiv-Daily",
+        "url_title": "Not found"
+    },
+    {
+        "query": "A Generative Appearance Model for End-to-end Video Object Segmentation",
+        "url": "https://arxiv.org/abs/1811.11611",
+        "url_title": "[1811.11611] A Generative Appearance Model for End-to-end Video Object Segmentation"
+    },
+    {
+        "query": "Practical Full Resolution Learned Lossless Image Compression",
+        "url": "https://arxiv.org/abs/1811.12817",
+        "url_title": "[1811.12817] Practical Full Resolution Learned Lossless Image Compression"
+    },
+    {
+        "query": "Image-to-Image Translation via Group-wise Deep Whitening and Coloring",
+        "url": "https://arxiv.org/abs/1812.09912",
+        "url_title": "[1812.09912] Image-to-Image Translation via Group-wise Deep Whitening and Coloring Transformation"
+    },
+    {
+        "query": "Max-Sliced Wasserstein Distance and its use for GANs",
+        "url": "https://arxiv.org/abs/1904.05877",
+        "url_title": "[1904.05877] Max-Sliced Wasserstein Distance and its use for GANs"
+    },
+    {
+        "query": "Meta-Learning with Differentiable Convex Optimization",
+        "url": "https://arxiv.org/abs/1904.03758",
+        "url_title": "[1904.03758] Meta-Learning with Differentiable Convex Optimization"
+    },
+    {
+        "query": "RePr: Improved Training of Convolutional Filters",
+        "url": "https://arxiv.org/abs/1811.07275",
+        "url_title": "[1811.07275] RePr: Improved Training of Convolutional Filters"
+    },
+    {
+        "query": "Tangent-Normal Adversarial Regularization for Semi-supervised Learning",
+        "url": "https://arxiv.org/abs/1808.06088",
+        "url_title": "[1808.06088] Tangent-Normal Adversarial Regularization for Semi-supervised Learning"
+    },
+    {
+        "query": "Auto-Encoding Scene Graphs for Descriptive Image Captioning",
+        "url": "https://arxiv.org/abs/1812.02378",
+        "url_title": "[1812.02378] Auto-Encoding Scene Graphs for Image Captioning"
+    },
+    {
+        "query": "Fast, Diverse and Accurate Image Captioning Guided By Part-of-Speech",
+        "url": "https://arxiv.org/abs/1805.12589",
+        "url_title": "[1805.12589] Fast, Diverse and Accurate Image Captioning Guided By Part-of-Speech"
+    },
+    {
+        "query": "Attention Branch Network: Learning of Attention Mechanism for Visual Explanation",
+        "url": "https://arxiv.org/abs/1812.10025",
+        "url_title": "[1812.10025] Attention Branch Network: Learning of Attention Mechanism for Visual Explanation"
+    },
+    {
+        "query": "Cascaded Projection: End-to-End Network Compression and Acceleration",
+        "url": "https://arxiv.org/abs/1903.04988",
+        "url_title": "[1903.04988] Cascaded Projection: End-to-End Network Compression and Acceleration"
+    },
+    {
+        "query": "DeepCaps : Going Deeper with Capsule Networks",
+        "url": "https://arxiv.org/abs/1904.09546",
+        "url_title": "[1904.09546] DeepCaps: Going Deeper with Capsule Networks"
+    },
+    {
+        "query": "DNASNet: Hardware-Aware Efficient ConvNet Design via Differentiable Neural Architecture Search",
+        "url": "https://arxiv.org/abs/1812.03443",
+        "url_title": "[1812.03443] FBNet: Hardware-Aware Efficient ConvNet Design via Differentiable Neural Architecture Search"
+    },
+    {
+        "query": "APDrawingGAN: Generating Artistic Portrait Drawings from Face Photos with Hierarchical GANs",
+        "url": "https://arxiv.org/papers/CVPR-2019-Drawing.pdf",
+        "url_title": "Not found"
+    },
+    {
+        "query": "Constrained Generative Adversarial Networks for Interactive Image Generation",
+        "url": "https://arxiv.org/abs/1904.02526",
+        "url_title": "[1904.02526] Constrained Generative Adversarial Networks for Interactive Image Generation"
+    },
+    {
+        "query": "WarpGAN: Automatic Caricature Generation",
+        "url": "https://arxiv.org/abs/1811.10100",
+        "url_title": "[1811.10100] WarpGAN: Automatic Caricature Generation"
+    },
+    {
+        "query": "A Generative Adversarial Density Estimator",
+        "url": "https://arxiv.org/abs/1811.03179",
+        "url_title": "[1811.03179] On How Well Generative Adversarial Networks Learn Densities: Nonparametric and Parametric Results"
+    },
+    {
+        "query": "SoDeep: a Sorting Deep net to learn ranking loss surrogates",
+        "url": "https://arxiv.org/abs/1904.04272",
+        "url_title": "[1904.04272] SoDeep: a Sorting Deep net to learn ranking loss surrogates"
+    },
+    {
+        "query": "High-Quality Face Capture Using Anatomical Muscles",
+        "url": "https://arxiv.org/abs/1812.02836",
+        "url_title": "[1812.02836] High-Quality Face Capture Using Anatomical Muscles"
+    },
+    {
+        "query": "FML: Face Model Learning from Videos",
+        "url": "https://arxiv.org/abs/1812.07603",
+        "url_title": "[1812.07603] FML: Face Model Learning from Videos"
+    },
+    {
+        "query": "AdaScale: Adaptively Scaling Cosine Logits for Effectively Learning Deep Face Representations",
+        "url": "https://arxiv.org/abs/1905.00292",
+        "url_title": "[1905.00292] AdaCos: Adaptively Scaling Cosine Logits for Effectively Learning Deep Face Representations"
+    },
+    {
+        "query": "3D Hand Shape and Pose Estimation from a Single RGB Image",
+        "url": "https://arxiv.org/abs/1903.00812",
+        "url_title": "[1903.00812] 3D Hand Shape and Pose Estimation from a Single RGB Image"
+    },
+    {
+        "query": "3D hand shape and pose from images in the wild",
+        "url": "https://arxiv.org/abs/1902.03451",
+        "url_title": "[1902.03451] 3D Hand Shape and Pose from Images in the Wild"
+    },
+    {
+        "query": "Self supervised 3D hand pose estimation",
+        "url": "https://arxiv.org/abs/1903.02330",
+        "url_title": "[1903.02330] Self-Supervised Learning of 3D Human Pose using Multi-view Geometry"
+    },
+    {
+        "query": "CrowdPose: Efficient Crowded Scenes Pose Estimation and A New Benchmark",
+        "url": "https://arxiv.org/abs/1812.00324",
+        "url_title": "[1812.00324] CrowdPose: Efficient Crowded Scenes Pose Estimation and A New Benchmark"
+    },
+    {
+        "query": "Towards Social Artificial Intelligence: Nonverbal Social Signal Prediction in A Triadic Interaction",
+        "url": "https://arxiv.org/cs.AI/recent",
+        "url_title": "Not found"
+    },
+    {
+        "query": "Synergistic, Part-Based 3D Human Reconstruction In-The-Wild",
+        "url": "https://arxiv.org/abs/1903.06473",
+        "url_title": "[1903.06473] DeepHuman: 3D Human Reconstruction from a Single Image"
+    },
+    {
+        "query": "Weakly-Supervised Discovery of Geometry-Aware Representation for 3D Human Pose Estimation",
+        "url": "https://arxiv.org/abs/1903.08839",
+        "url_title": "[1903.08839] Weakly-Supervised Discovery of Geometry-Aware Representation for 3D Human Pose Estimation"
+    },
+    {
+        "query": "In the Wild Human Pose Estimation using Explicit 2D Features and Intermediate 3D Representations",
+        "url": "https://arxiv.org/abs/1904.03289",
+        "url_title": "[1904.03289] In the Wild Human Pose Estimation Using Explicit 2D Features and Intermediate 3D Representations"
+    },
+    {
+        "query": "DensePose-Slim: Cheaper Learning from Motion Cues",
+        "url": "https://arxiv.org/abs/1809.01995",
+        "url_title": "[1809.01995] Dense Pose Transfer"
+    },
+    {
+        "query": "Twin-Cycle Autoencoder: Self-supervised Representation Learning from Entangled Movement for Facial Action Unit Detection",
+        "url": "https://arxiv.org/abs/1903.01000",
+        "url_title": "[1903.01000] Self-Supervised Learning of Face Representations for Video Face Clustering"
+    },
+    {
+        "query": "Combining 3D Morphable Models: A Largescale Face-and-Head Model",
+        "url": "https://arxiv.org/abs/1903.03785",
+        "url_title": "[1903.03785] Combining 3D Morphable Models: A Large scale Face-and-Head Model"
+    },
+    {
+        "query": "Boosting Local Shape Matching for Dense 3D Face Correspondence",
+        "url": "https://arxiv.org/abs/1904.03525",
+        "url_title": "[1904.03525] Dense 3D Face Decoding over 2500FPS: Joint Texture & Shape Convolutional Mesh Decoders"
+    },
+    {
+        "query": "Unsupervised Part-Based Disentangling of Object Shape and Appearance",
+        "url": "https://arxiv.org/abs/1903.06946",
+        "url_title": "[1903.06946] Unsupervised Part-Based Disentangling of Object Shape and Appearance"
+    },
+    {
+        "query": "Monocular Total Capture: Posing Face, Body, and Hands in the Wild",
+        "url": "https://arxiv.org/abs/1812.01598",
+        "url_title": "[1812.01598] Monocular Total Capture: Posing Face, Body, and Hands in the Wild"
+    },
+    {
+        "query": "Expressive Body Capture: 3D Hands, Face, and Body from a Single Image",
+        "url": "https://arxiv.org/abs/1904.05866",
+        "url_title": "[1904.05866] Expressive Body Capture: 3D Hands, Face, and Body from a Single Image"
+    },
+    {
+        "query": "Neural RGB -> D Sensing: Depth and Uncertainty from a Video Camera",
+        "url": "https://arxiv.org/abs/1901.02571",
+        "url_title": "[1901.02571] Neural RGB->D Sensing: Depth and Uncertainty from a Video Camera"
+    },
+    {
+        "query": "DAVANet: Stereo Deblurring with View Aggregation",
+        "url": "https://arxiv.org/abs/1904.05065",
+        "url_title": "[1904.05065] DAVANet: Stereo Deblurring with View Aggregation"
+    },
+    {
+        "query": "DVC: An End-to-end Deep Video Compression Framework",
+        "url": "https://arxiv.org/abs/1812.00101",
+        "url_title": "[1812.00101] DVC: An End-to-end Deep Video Compression Framework"
+    },
+    {
+        "query": "SOSNet: Second Order Similarity Regularization for Local Descriptor Learning",
+        "url": "https://arxiv.org/abs/1904.05019",
+        "url_title": "[1904.05019] SOSNet: Second Order Similarity Regularization for Local Descriptor Learning"
+    },
+    {
+        "query": "\u201cDouble-DIP\u201d: Unsupervised Image Decomposition via Coupled Deep-Image-Priors",
+        "url": "https://arxiv.org/abs/1812.00467",
+        "url_title": "[1812.00467] \"Double-DIP\": Unsupervised Image Decomposition via Coupled Deep-Image-Priors"
+    },
+    {
+        "query": "Unprocessing Images for Learned Raw Denoising",
+        "url": "https://arxiv.org/abs/1811.11127",
+        "url_title": "[1811.11127] Unprocessing Images for Learned Raw Denoising"
+    },
+    {
+        "query": "Modulating Image Restoration with Continual Levels via Adaptive Feature Modification Layers",
+        "url": "https://arxiv.org/abs/1904.08118",
+        "url_title": "[1904.08118] Modulating Image Restoration with Continual Levels via Adaptive Feature Modification Layers"
+    },
+    {
+        "query": "Second-order Attention Network for Single Image Super-resolution",
+        "url": "https://arxiv.org/paper/CVPR19-SAN.pdf",
+        "url_title": "Not found"
+    },
+    {
+        "query": "Devil is in the Edges: Learning Semantic Boundaries from Noisy Annotations",
+        "url": "https://arxiv.org/abs/1904.07934",
+        "url_title": "[1904.07934] Devil is in the Edges: Learning Semantic Boundaries from Noisy Annotations"
+    },
+    {
+        "query": "Path-Invariant Map Networks",
+        "url": "https://arxiv.org/abs/1812.11647",
+        "url_title": "[1812.11647] Path-Invariant Map Networks"
+    },
+    {
+        "query": "FilterReg: Robust and Efficient Probabilistic Point-Set Registration using Gaussian Filter and Twist Parameterization",
+        "url": "https://arxiv.org/abs/1811.10136",
+        "url_title": "[1811.10136] FilterReg: Robust and Efficient Probabilistic Point-Set Registration using Gaussian Filter and Twist Parameterization"
+    },
+    {
+        "query": "Probabilistic Permutation Synchronization using the Riemannian Structure of the Birkhoff Polytope",
+        "url": "https://arxiv.org/abs/1904.05814",
+        "url_title": "[1904.05814] Probabilistic Permutation Synchronization using the Riemannian Structure of the Birkhoff Polytope"
+    },
+    {
+        "query": "Lifting Vectorial Variational Problems: A Natural Formulation based on Geometric Measure Theory and Discrete Exterior Calculus",
+        "url": "https://arxiv.org/abs/1905.00851",
+        "url_title": "[1905.00851] Lifting Vectorial Variational Problems: A Natural Formulation based on Geometric Measure Theory and Discrete Exterior Calculus"
+    },
+    {
+        "query": "A Sufficient Condition for Convergences of Adam and RMSProp",
+        "url": "https://arxiv.org/abs/1811.09358",
+        "url_title": "[1811.09358] A Sufficient Condition for Convergences of Adam and RMSProp"
+    },
+    {
+        "query": "MAP inference via Block-Coordinate Frank-Wolfe Algorithm",
+        "url": "https://arxiv.org/abs/1806.05049",
+        "url_title": "[1806.05049] MAP inference via Block-Coordinate Frank-Wolfe Algorithm"
+    },
+    {
+        "query": "A convex relaxation for multi-graph matching",
+        "url": "https://arxiv.org/abs/1705.07765",
+        "url_title": "[1705.07765] Exact Recovery with Symmetries for the Doubly-Stochastic Relaxation"
+    }
+]

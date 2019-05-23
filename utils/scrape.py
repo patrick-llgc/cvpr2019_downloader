@@ -6,6 +6,7 @@ import googlesearch
 import json
 import random
 import time
+import os
 
 def google_scrape(url):
     response = requests.get(url, headers = {'User-agent': 'your bot 0.1'})
@@ -22,7 +23,7 @@ def download(url, file_name):
         file.write(response.content)
 
 
-def get_arxiv_urls(paper_titles):
+def get_arxiv_urls(paper_titles, output_json_dir=None):
     """Get a list of arxiv urls from paper_titles
 
     One way to do it is to install googler and use it.
@@ -79,8 +80,9 @@ def get_arxiv_urls(paper_titles):
                 'url': url,
                 'query': paper_title,
             })
-    with open('./papers/query_urls.json', 'a') as f_out:
-        json.dump(urls, f_out, indent=4, sort_keys=True)
+    if os.path.isdir(output_json_dir):
+        with open(os.path.join(output_json_dir, 'query_urls.json'), 'a') as f_out:
+            json.dump(urls, f_out, indent=4, sort_keys=True)
     return urls
 
 
